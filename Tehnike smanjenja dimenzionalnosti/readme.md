@@ -13,4 +13,4 @@
         - Select K-Best
     - Wrapper metode:
         - RFE
-    -Embedded metode
+    - Embedded metode
